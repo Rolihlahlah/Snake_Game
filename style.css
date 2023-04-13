@@ -10,6 +10,7 @@ canvas {
 
 /* Style the score text */
 #score {
+  color:ghostwhite;
   font-size: 24px;
   text-align: center;
   margin-top: 16px;
@@ -41,4 +42,7 @@ canvas {
 /* Style the restart button on hover */
 #restart:hover {
   background-color: #3E8E41;
+}
+h1 {
+color:#4CAF50
 }
