@@ -1,5 +1,9 @@
+body {
+  background-color:black
+}
 /* Center the canvas */
 canvas {
+  background-color: azure;
   display: block;
   margin: 0 auto;
 }
