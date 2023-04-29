@@ -9,5 +9,6 @@
 
 ##### Snake Game is a fun and engaging game that tests the player's reflexes and strategic thinking. It is a great example of a simple yet challenging game that can be built using web technologies.
 
-##Live Link
+## Live Link
+
 https://rolihlahlah.github.io/Snake_Game/
